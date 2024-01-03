@@ -8,5 +8,5 @@ val: /content/yolo_data/images/val # val images (relative to 'path') 128 images
 # test:  # test images (optional)
 
 # Classes
-nc: 2  # number of classes
-names: ['player','football']  # class names
+nc: 18  # number of classes
+names: ['air-hole1','air-hole2','air-hole3','air-hole4','air-hole7','air-hole10','air-hole11','air-hole12','air-hole13','air-hole14','bite-edge2','broken-arc1','broken-arc2','broken-arc3','crack','overlap','slag-inclusion2','unfused']  # class names
